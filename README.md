@@ -1,8 +1,6 @@
 # 🚀 Leitura de Dados em Java
 
-Um projetinho simples, direto ao ponto, pra treinar **entrada de dados com `Scanner`** e **fluxo de decisão com `if/else`** em Java.
-
-> 💡 Esse código simula um menu interativo no terminal onde o usuário escolhe uma opção e recebe uma resposta.
+Projeto simples, criado para treinar **entrada de dados com `Scanner`** e **fluxo de decisão com `if/else`** em Java.
 
 ---
 
@@ -19,7 +17,7 @@ Um projetinho simples, direto ao ponto, pra treinar **entrada de dados com `Scan
 
 * Java ☕
 * Terminal / CLI
-* IDE (VS Code, IntelliJ, etc.)
+* Eclipse
 
 ---
 
@@ -122,7 +120,8 @@ public class LeituraDados {
 
 ## 💭 Sobre
 
-Projeto feito pra evolução prática em Java — focado em aprender fazendo.
+Projeto feito unicamente para estudo e diversao, acredito que quando voce faz algo e essa coisa te faz rir ou te faz sentir algo bom, abre uma janela mental que faz com que vc se lembre das coisas.
+A ideia não é profissional, mas é pra mostrar o conceito e a lógica!
 
 Se você tá começando também: **continua. A consistência ganha de tudo.**
 
